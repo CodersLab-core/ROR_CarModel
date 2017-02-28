@@ -7,7 +7,7 @@ Biblioteka do nauki pracy na RESTowych kontrolerach.
 Dodaj tę linijkę do Gemfile'a swojej aplikacji:
 
 ```ruby
-gem 'car_model', github: 'coderslab/ror_car_model'
+gem 'car_model', github: 'CodersLab-core/ROR_CarModel'
 ```
 
 ## Instrukcja
